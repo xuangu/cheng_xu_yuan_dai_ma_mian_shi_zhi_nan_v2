@@ -1,0 +1,8 @@
+java/.idea/*
+java/.vscode/*
+*/.vscode/*
+*/.idea/*
+*/out/*
+java/.vscode/*
+python/__pycache__/*
+
